@@ -6,6 +6,6 @@ Interactive graphics help people visualize data. Moreover, the "interactive" cou
 2. Signal Detection Theory https://apps4teaching.shinyapps.io/SignalDetection/
 3. Confidence Interval with diffPlot https://apps4teaching.shinyapps.io/Diffplot/
 4. Small Sample Size Bias https://apps4teaching.shinyapps.io/SmallSampleBias/
-5. Ecological Fallacy https://apps4teaching.shinyapps.io/Ecological-Fallacy/
+5. Ecological Fallacy https://apps4teaching.shinyapps.io/EcologicalFallacy/
 
 The original Confidence Interval did not upload onto shinyapps.io
