@@ -9,3 +9,5 @@ Interactive graphics help people visualize data. Moreover, the "interactive" cou
 5. Ecological Fallacy https://apps4teaching.shinyapps.io/EcologicalFallacy/
 
 The original Confidence Interval did not upload onto shinyapps.io
+
+This work was supervised by Prof. Ching-Fan Sheu, currently works at Institute of Education, National Cheng Kung University.
