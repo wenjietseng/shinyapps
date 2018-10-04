@@ -10,6 +10,4 @@ We design 5 shiny apps, which can be divided into two parts: 1) teaching statist
 4. Small Sample Size Bias https://apps4teaching.shinyapps.io/SmallSampleBias/
 5. Ecological Fallacy https://apps4teaching.shinyapps.io/EcologicalFallacy/
 
-The original Confidence Interval did not upload onto shinyapps.io
-
 This work was supervised by Prof. Ching-Fan Sheu, currently works at Institute of Education, National Cheng Kung University.
